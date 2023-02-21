@@ -1,4 +1,4 @@
-## Alist 资源批量添加
+# Alist 资源批量添加 这是更改的一部分
 
 **推荐使用基于 Golang 的新版本[https://github.com/yzbtdiy/alist_batch](https://github.com/yzbtdiy/alist_batch)**
 
